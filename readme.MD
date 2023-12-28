@@ -1,5 +1,5 @@
 # ENGLISH
-## Tokopedia Related Product Keyword Based
+## Tokopedia Related Product Keyword and Subcategory Based
 
 ### Tokopedia
 Tokopedia is one of Indonesia's e-commerce platforms, currently under GoTo management following a merger with Gojek.
@@ -15,7 +15,7 @@ Data is collected using the backend API found in the browser.
 
 
 # Indonesia
-## Tokopedia Related Product Keyword Based
+## Data Produk Tokopedia yang bedasarkan Keyword dan Subcategory
 
 ### Tokopedia
 Tokopedia merupakan salah satu platform e-commerce di Indonesia, saat ini berada di bawah manajemen GoTo setelah penggabungan dengan Gojek.
